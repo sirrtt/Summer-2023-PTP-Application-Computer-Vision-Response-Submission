@@ -21,7 +21,7 @@ After processing each frame, save them as individual image files in JPG format.
 
 1b (Advanced): Utilize a pre-trained object detection model such as YOLO, SSD, or Fast-RCNN to detect objects in the input clip. Save the detected information of objects (FrameID, Object’s class, Object’s bounding box, Confidence) into a JSON file.
 
-Requirement 2: Create a tool to scrape and download 2000 images from any sources from the internet into 2 categories. Category 1 contains 1000 true images. Category 2 contains 2000 AI-generated images. Resize all images to 300 x 300.
+Requirement 2: Create a tool to scrape and download 1000 images from any sources from the internet into 2 categories. Category 1 contains 1000 true images. Category 2 contains 2000 AI-generated images. Resize all images to 300 x 300.
 
 Input: No
 
