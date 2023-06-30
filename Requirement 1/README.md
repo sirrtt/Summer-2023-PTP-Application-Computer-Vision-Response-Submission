@@ -14,6 +14,8 @@ After processing each frame, save them as individual image files in JPG format.
 
 1b (Advanced): Utilize a pre-trained object detection model such as YOLO, SSD, or Fast-RCNN to detect objects in the input clip. Save the detected information of objects (FrameID, Object’s class, Object’s bounding box, Confidence) into a JSON file.
 
-All the processed images are saved in the **processed_images** folder.
-The JSON file contains the detected information of objects (FrameID, Object’s class, Object’s bounding box, Confidence) is **Detected_information_of_objects.json** file.
-The code is in the Object_Detection.ipynb file.
+All the processed images are saved in the _**processed_images**_ folder.
+
+The JSON file contains the detected information of objects (FrameID, Object’s class, Object’s bounding box, Confidence) is _**Detected_information_of_objects.json**_ file.
+
+The code is in the _**Object_detection.ipynb**_ file.
